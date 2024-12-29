@@ -1,7 +1,7 @@
 export const Data = [
     {
         id: 15,
-        firstName: "Ma",
+        firstName: "M",
         lastName: "Touqeer",
         age: 18
     },
